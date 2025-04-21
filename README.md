@@ -29,8 +29,8 @@ The project is organized around four key tasks, each applying graph algorithms a
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com//london-tube-journey-planner.git
-cd london-tube-journey-planner
+git clone https://github.com/isyiraliyah/london-underground-journey-planner
+cd london-underground-journey-planner
 ```
 
 2. **Install required packages:**
